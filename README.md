@@ -1,5 +1,5 @@
 <p align="center"> SQL-Portfolio
- /p>
+ </p>
 #
 I will be using SQLite data starter packs that I had downloaded online to show my knowledge in using data tables to extract and edit data.
 #
